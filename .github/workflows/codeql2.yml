@@ -58,7 +58,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         # 指定特定的tag
-        ref: 'curl-7_3'
+        ref: 'libexif-0_6_21-release'
       
 
     # Add any setup steps before running the `github/codeql-action/init` action.
